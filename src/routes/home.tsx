@@ -1,17 +1,20 @@
 import React from "react"
-import UiButton from "../components/uiButton"
+import Greeter from "../components/greeter"
 
 export default function Home() {
   return (
-    <div className="h-full bg-pink-600 p-4">
+    <div className="h-full p-4">
       <h1>Home</h1>
-      <UiButton
+      <button
+        className="btn"
         onClick={() => {
           alert("hi")
         }}
       >
-        <p>hi</p>
-      </UiButton>
+        hi There
+      </button>
+      <input type="range" min="0" max="100" className="range" />
+      <Greeter name="developer" />
     </div>
   )
 }
