@@ -3,7 +3,7 @@
 ## 📚 Stack
 - ⚛️ [React](https://reactjs.org/) (framweork)
 - 🚦 [React Router](https://reactrouter.com/) (routing)
-- ⚡️[Vite](https://vitejs.dev/) (dev server and bundling)
+- ⚡️ [Vite](https://vitejs.dev/) (dev server and bundling)
 - 📱 [Vite PWA Plugin](https://vite-pwa-org.netlify.app/) (for native app experience)
 - 💄 [TailwindCSS](https://tailwindcss.com/) (utility classes)
 - 🌻 [daisyUi](https://daisyui.com/) (tailwindcss components)
